@@ -5,5 +5,6 @@
  <p align="center">Welcom to My GitHub!</p>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watasho358&layout=compact)](https://github.com/watasho358/watasho358)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watasho358&layout=compact&langs_count=10)](https://github.com/watasho358/watasho358)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=watasho358&count_private=true&show_icons=true&hide_title=true&line_height=33)](https://github.com/watasho358/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=watasho358&rank=-?&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
