@@ -1,5 +1,6 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
+ <img width="100px" src="https://user-images.githubusercontent.com/34031637/176423888-84eda982-3fe6-4f73-94fc-85f45abf1878.png"　 align="center"/>
+
  <h2 align="center">Watasho GitHub Stats</h2>
  <p align="center">Welcom to My GitHub!</p>
 </p>
