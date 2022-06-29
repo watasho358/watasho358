@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">Watasho GitHub Stats</h2>
- <p align="center">Welcom My GitHub!</p>
+ <p align="center">Welcom to My GitHub!</p>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watasho358&layout=compact)](https://github.com/watasho358/github-readme-stats)
