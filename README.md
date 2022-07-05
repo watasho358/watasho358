@@ -1,4 +1,7 @@
 <p align="center">
+ <img width="110px" src="https://user-images.githubusercontent.com/34031637/177341857-c6a761a6-0b77-4efe-9b02-4fed8e9f726b.png"　 align="center"/>
+ <img width="100px" src="https://user-images.githubusercontent.com/34031637/177342215-ee6fe7f7-d032-4b3c-a6d4-939bb81adb5b.png"　 align="center"/>
+ <img width="100px" src="https://user-images.githubusercontent.com/34031637/177343470-c3b623d9-29a7-41f9-8b4c-751a964f1886.gif"　 align="center"/>
  <img width="100px" src="https://user-images.githubusercontent.com/34031637/176423888-84eda982-3fe6-4f73-94fc-85f45abf1878.png"　 align="center"/>
 
 <h1 align="center">Hi 👋, I'm watasho</h1>
