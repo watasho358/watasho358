@@ -1,10 +1,10 @@
 <p align="center">
- <img width="110px" src="https://user-images.githubusercontent.com/34031637/177341857-c6a761a6-0b77-4efe-9b02-4fed8e9f726b.png"　 align="center"/>
+ <img width="110px" src="https://user-images.githubusercontent.com/34031637/177351356-6c143cfe-623f-48f9-b555-c11cb6a6652b.png"　 align="center"/>
  <img width="100px" src="https://user-images.githubusercontent.com/34031637/177342215-ee6fe7f7-d032-4b3c-a6d4-939bb81adb5b.png"　 align="center"/>
  <img width="100px" src="https://user-images.githubusercontent.com/34031637/177343929-2f13d4bd-1ffa-4abd-ba08-d4e0d8ff384e.png"　 align="center"/>
  <img width="100px" src="https://user-images.githubusercontent.com/34031637/177344374-2a3770b0-d6b6-4cca-aac0-e31cdb79bda0.png"　 align="center"/>
  <img width="100px" src="https://user-images.githubusercontent.com/34031637/177345004-c76fcb02-a347-48ef-9d37-60d45654c63a.png"　 align="center"/>
- <img width="100px" src="https://user-images.githubusercontent.com/34031637/177346049-c5dd9ca3-1078-49fd-9482-54867f7d89b0.png"　 align="center"/>
+ <img width="110px" src="https://user-images.githubusercontent.com/34031637/177346049-c5dd9ca3-1078-49fd-9482-54867f7d89b0.png"　 align="center"/>
 
 <h1 align="center">Hi 👋, I'm watasho<img width="50px" src="https://user-images.githubusercontent.com/34031637/177348092-528bf7da-0b2b-4f72-af07-35e04c0f5336.jpeg"　 align="center"/></h1>
 <h3 align="center">A passionate system developer from Japan</h3>
